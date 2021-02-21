@@ -70,11 +70,12 @@ h2, h3 {
 }
 
  .Tables {
+    font-size: large;
     font-family: 'Patrick Hand', cursive;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 40%;
+    left: 42%;
+    transform: translate(-40%, -50%);
     text-align: left;
 }
 
@@ -83,7 +84,7 @@ h2, h3 {
 }
 
 #table2 {
-    float: left;
+    float: right;
 }
 
 ul, li {
